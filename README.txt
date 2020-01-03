@@ -1,3 +1,6 @@
+The results of this code was published in JCMCC Vol. 12, Aug 2017. You can read the paper here: https://arxiv.org/pdf/1510.03052.pdf
+
+----------------------------------------------------------------------------------------------------------------------------
 This program is based off of a program that my professor gave me, based off of code found at http://stackoverflow.com/questions/12367801/finding-all-cycles-in-undirected-graphs, and modified by Dr. David Leach. The code I was given(has, findAllCycles, findNewCycles, visited, rotate_to_smallest, invert, isNew) was intended to find all cycles in a graph
 I then wrote additional code (biPanCheck, biECheck, biFCheck, biCheck, degree, degree2, chordCheck) to test possible combinations of edge lengths to search for n-pancyclic, n-bipancyclic, and n-oddly bipancyclic graphs. 
 I also re-wrote most of the code (change, proper, main, run, write, writeChords) to accept input and give output.
